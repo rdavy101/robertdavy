@@ -1,2 +1,7 @@
 .hero {background-image:url("https://xenophobia22.files.wordpress.com/2013/02/sasquatch.jpg");
-background-size: cover;}
+background-size: cover;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	padding: 250px 0;
+	margin: 30px;
+}
+
